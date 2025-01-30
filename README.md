@@ -35,10 +35,10 @@ Este projeto utiliza Machine Learning para prever salários com base em anos de 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/preditor-salarios
+git clone https://github.com/JoaoLagos/Salary-Prediction-with-Linear-Regression
 
 # Entre no diretório
-cd preditor-salarios
+cd Salary-Prediction-with-Linear-Regression
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 1. Execute o arquivo principal:
 ```bash
-python salary_prediction_app.py
+python main_app.py
 ```
 
 2. Insira os anos de experiência
